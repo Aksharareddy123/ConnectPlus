@@ -1,6 +1,6 @@
-Instagram Clone
+**Instagram Clone**
 Instagram Clone App created using Flutter and Firebase - works on Android
-Features
+**Features**
 Email and Password Authentication
 Adding posts from gallery and camera
 Displaying and Deleting posts on feed screen
@@ -14,6 +14,6 @@ Message Page (UI)
 Edit Profile page
 Change Password
 Sign Out
-Technologies Used
+**Technologies Used**
 Firebase
 Flutter and Dart
